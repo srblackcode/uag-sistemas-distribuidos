@@ -1,4 +1,4 @@
-package org.example.socket.cliente_servidor;
+package org.example.comunicaciones.cliente_servidor_p2p;
 
 import javax.swing.*;
 import java.awt.*;
